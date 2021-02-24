@@ -1,0 +1,8 @@
+{
+    "information": [
+        { "name": "n!mute <user mention> <reason>", "description": "Mute a user"},
+        { "name": "n!ban <user mention> <reason>", "description": "Ban a user"},
+        { "name": "n!kick <user mention> <reason>", "description": "Kick a user"}
+
+    ]
+}
